@@ -32,12 +32,12 @@
     {
         "id": 4,
         "idCategoria": 4,
-        "nombre": "Camara ",
-        "marca": "iQual",
-        "modelo": "C40",
+        "nombre": "MousePad",
+        "marca": "HyperX",
+        "modelo": "Alloy",
         "precio": 8000,
         "stock": 30,
-        "img": "camara-iqual.jpg"
+        "img": "mouse-pag.jpg"
     },
     {
         "id": 5,
@@ -53,11 +53,11 @@
         "id": 6,
         "idCategoria": 4,
         "nombre": "Auriculares",
-        "marca": "Motorola",
-        "modelo": "Pulse",
+        "marca": "Razer",
+        "modelo": "5800X",
         "precio": 4000,
         "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "img": "Auricular.jpg"
     },
     {
         "id": 7,
@@ -82,12 +82,12 @@
     {
         "id": 9,
         "idCategoria": 4,
-        "nombre": "Parlante",
-        "marca": "Kalley",
-        "modelo": "SPK200",
+        "nombre": "Teclado",
+        "marca": "Corsair",
+        "modelo": "k65",
         "precio": 34000,
         "stock": 21,
-        "img": "parlante-kalley.png"
+        "img": "teclado.jpg"
     },
     {
         "id": 10,
