@@ -1,17 +1,17 @@
-import React from 'react';
-
+import { Link } from "react-router-dom";
 const CartWidget = () => {
+  
     return (
-        <div>
-        <ul className='navbar-nav me-auto'>
-       
-            <li className='nav-link'>
+        <>
+            <button className="btn btn-secondary cartWidget">
+                    <Link to={'/cart'} className="nav-link">
+                        <i className="fas fa-shopping-cart fa-lg"></i>
+                        <span className="cantCarrito">0</span>
+                    </Link>
+                        
+            </button>
                 
-                <button className='btn btn-dark'>Carrito</button>
-            </li>
-            <p>0</p>
-        </ul>
-        </div>
+        </>
     );
 }
 
